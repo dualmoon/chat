@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<scripts version="2.0">
+	<script>
+		<name>Clear Print Spool</name>
+		<file>C:\Chat\ClearPrintSpool.bat</file>
+		<resource></resource>
+		<platforms>00000001</platforms>
+		<autoexec>false</autoexec>
+	</script>
+	<script>
+		<name>List Network Drives</name>
+		<file>C:\Chat\NetDrives.bat</file>
+		<resource></resource>
+		<platforms>00000001</platforms>
+		<autoexec>false</autoexec>
+	</script>
+	<script>
+		<name>Fix Trustedinstaller</name>
+		<file>C:\Chat\FixTI.bat</file>
+		<resource></resource>
+		<platforms>00000001</platforms>
+		<autoexec>false</autoexec>
+	</script>
+	<script>
+		<name>Kill IE</name>
+		<file>C:\Chat\StopIE.bat</file>
+		<resource></resource>
+		<platforms>00000001</platforms>
+		<autoexec>false</autoexec>
+	</script>
+</scripts>
